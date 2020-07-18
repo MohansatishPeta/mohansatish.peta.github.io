@@ -1,2 +1,2 @@
-# mohansatish.peta.github.io
+# mohansatishpeta.github.io
 my portfolio
